@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentação.BemVindo.resources
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentação.CadastreSe.resources
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Rodrigo\Desktop\ProjetoLogin\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
